@@ -1,0 +1,8 @@
+# Recorded cluster environment for the primary and robustness simulations.
+numpy==1.20.1
+pandas==1.2.1
+scipy==1.6.2
+networkx==2.6.3
+matplotlib==3.3.4
+seaborn==0.11.1
+openpyxl==3.0.7

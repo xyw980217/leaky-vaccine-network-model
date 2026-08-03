@@ -1,0 +1,5 @@
+# This project used separate recorded environments for simulation and analysis.
+# Install the appropriate workflow-specific file instead:
+#
+#   python -m pip install -r environments/requirements-simulation.txt
+#   python -m pip install -r environments/requirements-analysis.txt
