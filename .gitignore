@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+data/*
+!data/README.md
+results/
+test_outputs/
+*.xlsx
+*.xls
+*.npz
+*.csv
+*.csv.gz
