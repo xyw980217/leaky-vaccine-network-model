@@ -1,0 +1,42 @@
+[
+  {
+    "module": "simulations/_primary.py",
+    "source_filename": "run_primary_vaccination_experiments.py",
+    "source_sha256": "987e11996b1dd96160b0026a9c0f5122a518cdeccc26218e286fca9a8dc294b8"
+  },
+  {
+    "module": "simulations/_all_or_nothing.py",
+    "source_filename": "weighted_network_experiment_part_edition6_AON.py",
+    "source_sha256": "d5fd428915e9dfade8a8a5278010e0c179b0b7ddaad9213c11987efd36cd11e5"
+  },
+  {
+    "module": "simulations/hybrid_leaky.py",
+    "source_filename": "run_hybrid_peak_fip_tradeoff_quota_mixture_v2.py",
+    "source_sha256": "7627ff743c54bb27b3f7a237ce16b52e08e3b6babab5918d1bf05ca7101a0aeb"
+  },
+  {
+    "module": "simulations/hybrid_all_or_nothing.py",
+    "source_filename": "run_AON_fig5BCD_quota_mixture.py",
+    "source_sha256": "b64010319c9588676277a9263887ea1c6fa8c260a5f350ccf789106bada90beb"
+  },
+  {
+    "module": "simulations/disease_sensitivity.py",
+    "source_filename": "run_disease_robustness.py",
+    "source_sha256": "58756d15b93d5996e5d05ca7cb2f230162980f69bc2efde2305523bfd437212a"
+  },
+  {
+    "module": "simulations/network_sensitivity.py",
+    "source_filename": "weighted_network_structure_robustness_AUDITED.py",
+    "source_sha256": "e180980b413c80f002bbb1a4f5e6e7c9c2417bf8b44167c9d6f122eda7b5d255"
+  },
+  {
+    "module": "figures/_network_preparation.py",
+    "source_filename": "prepare_network_visualization_data.py",
+    "source_sha256": "bf983e79692969628f5b31a0180d9c0dc56c3b3821b0b27432133aba3ff1f834"
+  },
+  {
+    "module": "figures/_network_style.py",
+    "source_filename": "plot_network_panels_separate.py",
+    "source_sha256": "353a23dc7e0de926ed9939fdb9f1bb39219c977fa99eb5c1ae51d0774d0a18fd"
+  }
+]
